@@ -1,6 +1,1 @@
-body {
-  padding-bottom: 60px;
-}
-h1 {
-  margin-bottom: 10px;
-}
+main.container { min-height: 60vh; }
